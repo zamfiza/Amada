@@ -1,0 +1,30 @@
+Concept	Description	Status			Notes
+Memory layout & contiguous storage	Arrays stored in consecutive memory blocks	☐			
+0-based indexing & bounds checking	Accessing elements, off-by-one errors	☐			
+Static vs dynamic arrays	Fixed size vs ArrayList/vector resizing	☐			
+Time complexity: access, insert, delete	O(1) read, O(n) insert/delete	☐			
+Space complexity	O(n) for 1D, O(n×m) for 2D	☐			
+Multi-dimensional arrays	2D arrays, row-major order	☐			
+					
+					
+🛠️  CORE TECHNIQUES					
+Concept	Description	Status			Notes
+Two Pointers (same direction)	Fast & slow pointer — cycle detection, duplicates	☐			
+Two Pointers (opposite direction)	Left & right — Two Sum, 3Sum, palindrome check	☐			
+Sliding Window (fixed size)	Max/min over window of size k	☐			
+Sliding Window (variable size)	Expand/shrink window based on condition	☐			
+Prefix Sum	Precompute cumulative sums for O(1) range queries	☐			
+Binary Search on sorted array	O(log n) search, upper/lower bound variants	☐			
+HashMap / Frequency Map	Counting, complement lookup, anagram detection	☐			
+Sorting as pre-processing	Merge sort, quicksort, counting sort	☐			
+Monotonic Stack with arrays	Next greater element, trapping rain water	☐			
+					
+					
+⚡  SPECIAL ALGORITHMS TO MEMORISE					
+Concept	Description	Status			Notes
+Kadane's Algorithm	Maximum subarray sum in O(n)	☐			
+Dutch National Flag	3-way partition: 0s, 1s, 2s in one pass	☐			
+Moore's Voting Algorithm	Find majority element in O(n) time O(1) space	☐			
+XOR Tricks	Find missing/duplicate number without extra space	☐			
+Floyd's Cycle Detection	Detect cycle using fast & slow pointer	☐			
+					
